@@ -1,5 +1,5 @@
 # AtliQ Hardware Sales and Finance Analysis*
-(https://github.com/Priyankajoshi1234/Excel-Sales-Analytics/blob/main/ATLIQ%20HARDWARE%20PROBLEM%20STATEMENT.pdf)
+[AtliQ Hardware Problem Statement](https://github.com/Priyankajoshi1234/Excel-Sales-Analytics/blob/main/ATLIQ%20HARDWARE%20PROBLEM%20STATEMENT.pdf)
 
 ##Overview
 
@@ -52,8 +52,7 @@ Contributors
 
 
 # Customer Performance Report
-[Customer Performance Report]
-(https://github.com/Priyankajoshi1234/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+[Customer Performance Report](https://github.com/Priyankajoshi1234/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
 This report provides a comprehensive analysis of customer performance metrics for AtliQ Hardware from 2019 to 2021. It includes net sales performance and growth percentages for various customers over the years.
 
@@ -243,7 +242,7 @@ All values are reported in USD and are broken down by fiscal month and quarter.
 
 ## Data Source
 
-This analysis was conducted using Microsoft Excel. While the original Excel file is not included in this repository due to size limitations, a summary of the data is available in the [P & L Quarter Report by Fiscal Month.pdf(https://github.com/Priyankajoshi1234/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Quater%20Report%20by%20Fiscal%20month.pdf) file.
+This analysis was conducted using Microsoft Excel. While the original Excel file is not included in this repository due to size limitations, a summary of the data is available in the [P & L Quarter Report by Fiscal Month.pdf](https://github.com/Priyankajoshi1234/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Quater%20Report%20by%20Fiscal%20month.pdf) file.
 
 ## Key Findings
 
